@@ -1,3 +1,6 @@
+![image](https://github.com/valuex/TC_SnippetManager/assets/3627812/eb5ea34f-8703-4005-bc9a-7342ed218933)
+
+
 # TC_SnippetManager
 利用Total Command (TC)来管理程序/文本片段
 
